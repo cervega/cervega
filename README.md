@@ -1,5 +1,5 @@
 ## Introducing Myself 👨🏻‍🦲👋
-
+I’m currently working on finance industry, in the account receivable area, collecting some oustanding balance and providing some ideas to improve and automate processes inside the organization.
 <!--
 **cervega/cervega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
