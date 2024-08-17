@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on any project where I can learn and put into practice my knowledge
 - 🤔 I’m looking for help with creating an innovative portfolio as first step, then I would like help with some data science softwares, recomendations, best practice.
 - 💬 Ask me about my pesonal interest.
-- 📫 How to reach me: You can contact me through email adress : cvegac@edu.upolitecnica.cr
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I like to ride my bike and go hiking every weekend
 -->
