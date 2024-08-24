@@ -1,5 +1,5 @@
 ## Introducing Myself👨
-Hi, I am Christopher, currently working on finance industry,Analizing and collecting some oustanding balances and providing some ideas to improve and automate some processes.
+Hi, I am Christopher, currently working on finance industry,analizing and collecting some oustanding balances and providing some ideas to improve and automate some processes.
 I’m currently learning about data science. 👇🏻
 
 -Low-no code apps ( Power Platform)
