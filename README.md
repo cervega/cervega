@@ -21,7 +21,7 @@ I’m currently learning about data science. 👇🏻
 -Linkdln
 -Hire me on Linkdln
 
-- ⚡ Fun fact:  I like to ride my bike and go hiking every weekend
+⚡ Fun fact:  I like to ride my bicycle 🚵‍♀️ and go hiking 🥾 every weekend
 
  
 
